@@ -40,6 +40,26 @@ Buenos Aires, Argentina | Disponibilidad inmediata
 ## 📫 Contacto
 
 linkedin.com/in/giuliana-nicolosi
+
 giuliananicolosi@outlook.com
 ---
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/NicolosiGiuliana/NicolosiGiuliana?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/NicolosiGiuliana/NicolosiGiuliana?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/NicolosiGiuliana/NicolosiGiuliana?style=for-the-badge)
+
+---
+
+## Estadísticas de GitHub
+
+![Giuliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolosiGiuliana&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolosiGiuliana&layout=compact&theme=dark)
+
+---
+
+## Racha de contribuciones
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolosiGiuliana&theme=dark)
