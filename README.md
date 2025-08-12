@@ -11,6 +11,7 @@
 3. Bases de datos SQL/NoSQL y arquitectura de sistemas  
 4. Redes de computadoras y seguridad informática  
 5. Metodologías ágiles (Scrum, Kanban) y trabajo colaborativo  
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,6 +20,9 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
 ## 🌍 Idiomas
@@ -49,12 +53,6 @@ Buenos Aires, Argentina | Disponibilidad inmediata
 [linkedin.com/in/giuliana-nicolosi](https://www.linkedin.com/in/giuliana-nicolosi/)
 
 giuliananicolosi@outlook.com
-
----
-
-![GitHub last commit](https://img.shields.io/github/last-commit/NicolosiGiuliana/NicolosiGiuliana?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/NicolosiGiuliana/NicolosiGiuliana?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/NicolosiGiuliana/NicolosiGiuliana?style=for-the-badge)
 
 ---
 
